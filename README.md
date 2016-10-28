@@ -1,2 +1,2 @@
-# Perl6_Examples
-Examples of Perl 6
+# Learn Perl 6 By Examples
+Learn Perl 6 By Examples

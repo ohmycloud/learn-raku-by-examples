@@ -1,0 +1,4 @@
+use v6;
+
+say $*EXECUTABLE-NAME;
+say $*EXECUTABLE-NAME.WHAT;
