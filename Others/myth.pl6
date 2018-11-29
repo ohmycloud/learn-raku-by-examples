@@ -1,36 +1,40 @@
-# use v6;
+use v6;
 
-# use NCurses;
-# my $win = initscr() or die "Failed to initialize ncurses\n";
+use NCurses;
+use NativeCall;
 
-# constant numstars  = 100;
-# my $screen-x  =  getmaxx($win);
-# my $screen-y  =  getmaxy($win);
+sub setlocale(int32, Str) returns Str is native(Str) {*};
+setlocale(0, "");
 
-# color_set(5, 125);
+constant numstars  = 100;
+my $win = initscr() or die "Failed to initialize ncurses\n";
+my $screen-x  =  getmaxx($win);
+my $screen-y  =  getmaxy($win);
 
-# constant max-speed =   4;
+color_set(5, 125);
 
-# repeat {
-#     clear;
-#     for $=finish.lines.comb -> $w {
-#         # say $w;
-#         mvaddstr( (^125).pick, (^10).pick, $w.encode('gb2312') );
-#     }
-#     nc_refresh;
-#     sleep( .25 );
-# } while getch() < 0;
+constant max-speed =   4;
 
-# # Cleanup
-# LEAVE {
-#     delwin($win)  if $win;
+repeat {
+    clear;
+    for $=finish.lines.comb -> $w {
+        # say $w;
+        mvaddstr( (^125).pick, (^10).pick, $w );
+    }
+    nc_refresh;
+    sleep( .25 );
+} while getch() < 0;
 
-#     # End curses mode
-#     endwin;
-# }
+# Cleanup
+LEAVE {
+    delwin($win)  if $win;
+
+    # End curses mode
+    endwin;
+}
 
 
-for $=finish.lines.comb -> $w {say $w;}
+# for $=finish.lines.comb -> $w {say $w;}
 
 =finish
 　　　　星月神话

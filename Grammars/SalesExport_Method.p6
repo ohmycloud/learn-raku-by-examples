@@ -46,7 +46,7 @@ say '-' x 45;
 # 获取所有目的地
 for @$grammar_action -> $p {
     for $p.value() -> $d {
-	    for @$d -> $n{
+	    for @$d -> $n {
 		    say $n.key();
 		}
 	}
@@ -57,7 +57,7 @@ for @$grammar_action -> $p {
     print "$p.key()\t";
     for $p.value() -> $d {
 	    my $count;
-	    for @$d -> $n{
+	    for @$d -> $n {
 		    $count += $n.value()[0];
 		}
 	say $count;
@@ -68,7 +68,7 @@ say '-' x 45;
 # 获取经度 lat
 for @$grammar_action -> $p {
     for $p.value() -> $d {
-	    for @$d -> $n{
+	    for @$d -> $n {
 		    say $n.value()[1];
 		}
 	}

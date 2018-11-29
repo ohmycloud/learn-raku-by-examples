@@ -42,3 +42,8 @@ say @orderedByWage.join('  ');
 
 
 # Note that when the sort receives a unary function, it automatically generates an appropriate comparison function based on the type of the data.
+
+say "--" x 23;
+say @team.sort({.wage} )>>.name;
+
+.name.say for @team.sort: {.wage} #>>.name;
