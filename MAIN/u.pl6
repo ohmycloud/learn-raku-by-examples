@@ -9,7 +9,7 @@ multi sub MAIN(Int \timestamp) {
                 .hour, .minute, .second,
     }
     given DateTime.new(+timestamp, :&formatter).in-timezone(8*3600) {
-        when .Date.DateTime == $_ { say .Date }
+        when .Date.DateTime eq $_ { say .Date }
         default { .say }
     }
 }

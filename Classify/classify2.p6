@@ -13,5 +13,4 @@ my @a = slurp("README.txt").words;
 my %hash = @a.classify( *.Str );
 for %hash.sort({-.value.elems}).hash.kv.[^20] -> $key, $value {
     say $key ,"\t", $value.elems;
-
 }
