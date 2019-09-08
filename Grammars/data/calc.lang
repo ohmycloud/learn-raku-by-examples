@@ -1,0 +1,10 @@
+x = 40 + 2;
+print x;
+
+y = x - (5/2);
+print y;
+
+z = 1 + y * x;
+print z;
+
+print 14 - 16/3 + x;
