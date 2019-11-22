@@ -1,4 +1,3 @@
-use v6;
 my %hash = 'Perl'=>80,
          'Python'=>100,
              'Go'=>95,

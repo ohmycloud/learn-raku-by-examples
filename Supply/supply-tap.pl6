@@ -9,3 +9,19 @@ my $supply = supply {
 }
 $supply.tap( -> $v { say "First : $v" });
 $supply.tap( -> $v { say "Second : $v" });
+
+supply {
+    emit($_) for 'a' .. 'e';
+}.tap({
+ .say;
+});
+
+
+supply {
+    for 'a' .. 'e' {
+        say "Emitting $_";
+        emit($_);
+    }
+}.tap({
+    say "Tap received $_";
+})

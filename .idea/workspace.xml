@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d2d25a4-3080-47ff-9681-fa1a083997e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Smart Matching/ab.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Smart-Matching/ab.p6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smart Matching/smart-match.pl6" beforeDir="false" afterPath="$PROJECT_DIR$/Smart-Matching/smart-match.pl6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smart Matching/smartmatch.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Smart-Matching/smartmatch.p6" afterDir="false" />
+    <list default="true" id="239daec0-12ce-4fd5-9866-a59f326d312f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/learn-perl6-by-examples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/descending-sort.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/descending-sort.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Supply/supply-tap.pl6" beforeDir="false" afterPath="$PROJECT_DIR$/Supply/supply-tap.pl6" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,53 +15,93 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Regexes/comb-by-regex.pl6">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Set/minmax.pl6">
+        <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-done.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Set/insert-data.pl6">
+        <entry file="file://$PROJECT_DIR$/Supply/supply-from-list.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100">
-              <caret selection-end-line="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/comb.p6">
+        <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-from-list.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Classes/chemical.p6">
+        <entry file="file://$PROJECT_DIR$/Supply/live-supply-tap.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="120">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supply/supplier-start-await.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supply/multi-tap-in-live-supplier.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supply/thread-safe.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supply/supply-grep.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Supply/attach-more-taps.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/String/rotor-lines.p6">
+        <entry file="file://$PROJECT_DIR$/Supply/supply-map.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -69,21 +111,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Supply/supply-no-demand.p6" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Thread/run.p6" />
-        <option value="$PROJECT_DIR$/Slang/Slang/ForElse.pm6" />
-        <option value="$PROJECT_DIR$/Slang/for-else-example.p6" />
-        <option value="$PROJECT_DIR$/String/rotor-lines.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-no-demand.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-tap.pl6" />
+        <option value="$PROJECT_DIR$/Supply/chain-multi-tap-on-supply.p6" />
+        <option value="$PROJECT_DIR$/Supply/tap-with-delay.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-with-interval.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-interval-delay.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-tap-close.p6" />
+        <option value="$PROJECT_DIR$/Supply/sleep-before-tap.p6" />
+        <option value="$PROJECT_DIR$/Supply/tap1-tap2.p6" />
+        <option value="$PROJECT_DIR$/Supply/supplier.p6" />
+        <option value="$PROJECT_DIR$/React-Whenever/react-whenever-supply.p6" />
+        <option value="$PROJECT_DIR$/React-Whenever/react-whenever-done.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-from-list.p6" />
+        <option value="$PROJECT_DIR$/React-Whenever/react-whenever-from-list.p6" />
+        <option value="$PROJECT_DIR$/Supply/live-supply-tap.p6" />
+        <option value="$PROJECT_DIR$/Supply/supplier-start-await.p6" />
+        <option value="$PROJECT_DIR$/Supply/multi-tap-in-live-supplier.p6" />
+        <option value="$PROJECT_DIR$/Supply/thread-safe.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-grep.p6" />
+        <option value="$PROJECT_DIR$/Supply/attach-more-taps.p6" />
+        <option value="$PROJECT_DIR$/Supply/supply-map.p6" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="57" />
-    <option name="y" value="331" />
-    <option name="width" value="1386" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="308" />
+    <option name="y" value="313" />
+    <option name="width" value="1382" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -94,133 +156,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Junctions" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="React-Whenever" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Lazy-Lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="List-Comprehensions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="MAIN" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Meta-Operators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Muti-Dispatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Native-Library-Calls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Operators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Others" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Regexes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Signatures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Slang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Subset" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Traits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Twigils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Using-Perl 6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Whatever" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="When" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-perl6-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-perl6-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="With" type="462c0819:PsiDirectoryNode" />
+              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Supply" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,11 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Slang" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,18 +196,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d2d25a4-3080-47ff-9681-fa1a083997e5" name="Default Changelist" comment="" />
-      <created>1568014346651</created>
+      <changelist id="239daec0-12ce-4fd5-9866-a59f326d312f" name="Default Changelist" comment="" />
+      <created>1573136139685</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568014346651</updated>
+      <updated>1573136139685</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="23" width="1386" height="877" extended-state="6" />
+    <frame x="308" y="313" width="1382" height="808" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981685" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,7 +218,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4343949" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.60335195" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -283,282 +226,173 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Thread/run.p6">
+    <entry file="file://$PROJECT_DIR$/Supply/chain-multi-tap-on-supply.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki.pm6">
+    <entry file="file://$PROJECT_DIR$/Supply/supply.pl6">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/ansi-color.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/06.sha-256.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/09.validation_concurrent.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/09.validation_imperative.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/09.validation_junctions.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/09a.prime_demo.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/07.tree_hash_imperative.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/07.tree_hash_hybrid_imperative_functional.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/07.tree_hash_hybrid_functional_declarative_concurrent.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/02.fibonacci_recursive_hyper.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/02.fibonacci_recursive_multi.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Perl6-Transparadigm-Examples/02.fibonacci_recursive_multi_cached_state.pl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/digest-sha.p6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/desktop-notify.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/find.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/ping.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/subbuf.p6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/terminal-spinners.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/Package.pm6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/Note.pm6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/Model.pm6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/Deck.pm6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/Card.pm6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/apkg-schema.p6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/apkg-col.p6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/App/Anki/util.p6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Slang/META6.json">
+    <entry file="file://$PROJECT_DIR$/Supply/tap-with-delay.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Slang/for-else-example.p6">
+    <entry file="file://$PROJECT_DIR$/Supply/supply-tap.pl6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-ticks.pl6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-tap-close.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Slang/Slang/ForElse.pm6">
+    <entry file="file://$PROJECT_DIR$/Supply/sleep-before-tap.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-with-interval.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Regexes/comb-by-regex.pl6">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/comb.p6">
+    <entry file="file://$PROJECT_DIR$/Supply/supply-interval-delay.p6">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/chemical.p6">
+    <entry file="file://$PROJECT_DIR$/Supply/supply-no-demand.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/tap1-tap2.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supplier.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever.pl6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Set/minmax.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Set/insert-data.pl6">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/ts.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/String/rotor-lines.p6">
+    <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-supply.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-done.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-from-list.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-from-list.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/live-supply-tap.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supplier-start-await.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/multi-tap-in-live-supplier.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/thread-safe.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-grep.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/attach-more-taps.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Supply/supply-map.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
