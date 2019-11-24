@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="239daec0-12ce-4fd5-9866-a59f326d312f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/learn-perl6-by-examples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/descending-sort.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/descending-sort.p6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supply/supply-tap.pl6" beforeDir="false" afterPath="$PROJECT_DIR$/Supply/supply-tap.pl6" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,37 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-done.p6">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Supply/supply-from-list.p6">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/React-Whenever/react-whenever-from-list.p6">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Supply/live-supply-tap.p6">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -56,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/Supply/supplier-start-await.p6">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -91,17 +60,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Supply/attach-more-taps.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="255">
               <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Supply/supply-map.p6">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Regexes/destructuring-bind.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Grammars/token-as-params.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Unicode/unicode-digit.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="169" column="19" lean-forward="true" selection-start-line="169" selection-start-column="19" selection-end-line="169" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -112,6 +108,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Supply/supply-map.p6" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Supply/supply-no-demand.p6" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -138,12 +135,15 @@
         <option value="$PROJECT_DIR$/Supply/supply-grep.p6" />
         <option value="$PROJECT_DIR$/Supply/attach-more-taps.p6" />
         <option value="$PROJECT_DIR$/Supply/supply-map.p6" />
+        <option value="$PROJECT_DIR$/Regexes/destructuring-bind.p6" />
+        <option value="$PROJECT_DIR$/Grammars/token-as-params.p6" />
+        <option value="$PROJECT_DIR$/Unicode/unicode-digit.p6" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
-    <option name="y" value="313" />
+    <option name="x" value="58" />
+    <option name="y" value="92" />
     <option name="width" value="1382" />
     <option name="height" value="808" />
   </component>
@@ -158,16 +158,6 @@
             <path>
               <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="React-Whenever" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Supply" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,7 +195,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="313" width="1382" height="808" extended-state="0" />
+    <frame x="58" y="92" width="1382" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -218,7 +209,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.60335195" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4650838" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -348,14 +339,14 @@
     <entry file="file://$PROJECT_DIR$/Supply/live-supply-tap.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Supply/supplier-start-await.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -382,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Supply/attach-more-taps.p6">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="255">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
@@ -390,7 +381,28 @@
     <entry file="file://$PROJECT_DIR$/Supply/supply-map.p6">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regexes/destructuring-bind.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grammars/token-as-params.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unicode/unicode-digit.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="169" column="19" lean-forward="true" selection-start-line="169" selection-start-column="19" selection-end-line="169" selection-end-column="19" />
         </state>
       </provider>
     </entry>
