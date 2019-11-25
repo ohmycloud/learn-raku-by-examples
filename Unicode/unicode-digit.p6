@@ -41,7 +41,7 @@ say "\c[VULGAR FRACTION ONE TENTH]";   # ⅒
 say ⅒ * 3;
 say '⅒'.uniname;  # VULGAR FRACTION ONE TENTH
 say '⁄'.uniname;  # FRACTION SLASH
-say "\x[2044]";   # ⁄
+say "\x[2044]";   # ⁄, fraction slash
 say "\x[2079,2044,2081,2080]"; # ⁹⁄₁₀
 say '⁹⁄₁₀'.uniname; # SUPERSCRIPT NINE
 say 'ⁿ'.uniname;  # SUPERSCRIPT LATIN SMALL LETTER N
