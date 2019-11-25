@@ -10,3 +10,5 @@ say 'こんにちは'.uniprop('Script');   # Hiragana
 # <:Hani> 是 <:Han> 的长形式
 say 'Raku 入门abc指南'.comb(/<:Han>+/).join(','); # 入门,指南
 say 'Raku 入门abc指南'.comb(/<:Hani>+/).join(','); # 入门,指南
+
+say so ₆ ~~ /<:No>/;
