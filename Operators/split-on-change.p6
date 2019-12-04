@@ -1,4 +1,3 @@
 given 'ABBBCDEEF' {
-    my $chars = .chars;
-    
+    .comb(/\w+ % <same>/).say;
 }

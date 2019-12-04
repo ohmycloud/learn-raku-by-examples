@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="239daec0-12ce-4fd5-9866-a59f326d312f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/split-on-change.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/split-on-change.p6" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +22,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Q-Language/chinese-quotes.p6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Operators/split-on-change.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Regexes/the-same-zero-width-assertion.p6">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -78,11 +96,12 @@
         <option value="$PROJECT_DIR$/Regexes/trans.p6" />
         <option value="$PROJECT_DIR$/Shell/touch.p6" />
         <option value="$PROJECT_DIR$/Q-Language/chinese-quotes.p6" />
+        <option value="$PROJECT_DIR$/Operators/split-on-change.p6" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="194" />
+    <option name="x" value="58" />
     <option name="y" value="72" />
     <option name="width" value="1382" />
     <option name="height" value="808" />
@@ -92,6 +111,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,13 +122,17 @@
             <path>
               <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Q-Language" type="462c0819:PsiDirectoryNode" />
+              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn-raku-by-examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-raku-by-examples" type="462c0819:PsiDirectoryNode" />
+              <item name="Regexes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,10 +168,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="72" width="1382" height="808" extended-state="0" />
+    <frame x="58" y="72" width="1382" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,7 +182,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49963263" visible="true" weight="0.26536313" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49963263" visible="true" weight="0.19413407" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003674" side_tool="true" weight="0.42877096" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -434,8 +458,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q-Language/chinese-quotes.p6">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regexes/the-same-zero-width-assertion.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regexes/comb-by-regex.pl6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/split-on-change.p6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
