@@ -2,7 +2,7 @@
 use Cro::HTTP::Server;
 
 my Cro::Service $service = Cro::HTTP::Server.new(
-    :host('localhost'), :port(2314), :$application
+    :host('localhost'), :port(3333), :$application
 );
 # Running it
 $service.start;

@@ -1,6 +1,0 @@
-name = Animal Facts 
-author = jnthn
-[cat]desc = The smartest and cutest 
-cuteness = 100000
-[dugong]desc = The cow of the sea 
-cuteness = -10

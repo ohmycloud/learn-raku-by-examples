@@ -10,7 +10,7 @@ grammar CommaSeparated::Grammar {
     token TOP   {^ <line>+ $      }
     token line  { <info> \n       }
     token info  { <field>+ % ', ' }
-    token field { <-[,\n]>+       }  # 用到哪一块就把哪一块起个名字
+    token field { <-[,\n]>+       }
 }
 
 my $parsed = CommaSeparated::Grammar.parse($string);
