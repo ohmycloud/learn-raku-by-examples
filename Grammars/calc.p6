@@ -1,4 +1,4 @@
-grammar Calc {
+grammar MyCalc {
     rule TOP {
         ^ <expression> $
     }
@@ -22,4 +22,4 @@ grammar Calc {
     }
 }
 
-say Calc.parse('3*4*5');
+#say MyCalc.parse('3*4*5');

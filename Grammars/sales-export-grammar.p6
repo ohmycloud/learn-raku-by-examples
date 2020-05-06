@@ -30,7 +30,7 @@ Switzerland
 THE END
 
 class SalesExport::Grammar::Actions {
-	  method destination($/) { make ~$<dname> => $<sales>          }
+    method destination($/) { make ~$<dname> => $<sales>          }
     method country($/)     { make ~$<cname> => $<destination>    }
     method TOP($/)         { make $<country>>>.made              }
 }

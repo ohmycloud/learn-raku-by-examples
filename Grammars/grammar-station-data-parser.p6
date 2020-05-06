@@ -13,7 +13,7 @@ class StationData {
      
     submethod BUILD(:%info (:Name($!name), :Country($!country), *%), :@!data) { 
     } 
-} 
+}
  
 class StationDataActions { 
     method TOP($/) { 

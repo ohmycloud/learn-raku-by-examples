@@ -2,327 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef2450af-28ab-4d68-9d9d-892c0c444076" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binding/bind-array.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binding/bind-scalar.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binding/bind.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binding/binding.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binding/seq-loop.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chained-Comparisons/circle.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Dog.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Journey.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/bless-all-the-attributes.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/bless.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/call-a-random-method.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/chemical.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/child.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/class-method.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/class-t.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/class.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/custom-headers.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/customizable-attributes.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/department.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/dog-invoking-multiple-matched-methods.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/employee.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/failback.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/meta.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/methods.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/new.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/private.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/read-only-attributes.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/read-write-attributes.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/stone-game.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/submethod.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/submethods.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/tweak.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/type.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/understand-initalizer.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/word-count.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/claccify-into.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/classify-and-map.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/classify-depand-on-the-character-count.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/classify.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/classify2.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/count.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/groupby-substring.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classify/repeat-count.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ColonPair/colon-pair.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ColonPair/merge.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/currency.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/currency.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/print-number.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/proc-async-pipe.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/proc-async.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/really-simple-crawler.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/slupy-slupy.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/start-delay.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/start-threads.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Concurrency/thread-run.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cro/cro.pl6" beforeDir="false" afterPath="$PROJECT_DIR$/Cro/cro.pl6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBI/dbi.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBI/dbiish.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBI/example-db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBI/test.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateTime/date-formatter.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DateTime/datetime.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/argfiles.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/args.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/cwd.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/distro.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/dynamic-named-arguments.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/err.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/execuable.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/executable.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/group.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/home.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/in.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/kernel.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/out.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/perl.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/pid.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/program-name.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/program.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/repo.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/spec.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/timezone.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/user.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dynamic-Variables/vm.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/nature-week.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feeds/eager.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feeds/feed-test.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feeds/foo.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feeds/rocket.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Feeds/slurp-feed.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/extract-text.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/ff-gather.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/flip-flop-not.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/flip-flop-rotor.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/flip.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/flip.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/flip_flop.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/roror-sub-trip.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/rotor.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Flip/test-flop.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/fibonaci.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/inifile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/iniparse.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Function/subroutines.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gather-Take/calc.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gather-Take/find-the-10000th-prime.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gather-Take/gather-take.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gather-Take/take.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammars/comma.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/comma.p6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammars/key-value-pairs.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/key-value-pairs.p6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammars/key-value-pairs2.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grammars/token-rule-diference.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/token-rule-diference.p6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Great-List-Refactor/flat-or-not.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/Bags.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/bag-union-demo.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/count-words-classic.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/count-words-keybag-new.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/count-words.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/hash.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/key-of.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/keybag" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/pick-roll.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/semilist.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hash/sethash.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hyper-Operator/hyper-with-sub.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hyper-Operator/hyper.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hyper-Operator/race.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/REPL.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/catch.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/copy-move.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/csv-w.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/csv.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/delete-file.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/dir.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/foo.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/foo2.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/get-set-filetime.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/io-lines.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/io.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/json-pp.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/slurp.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/test.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/ts.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IO/unicode.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introspection/get-methods.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Junctions/any-junction.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Junctions/autothread-junction.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Junctions/rx-and-junctions.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lazy-Lists/lazy.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lazy-Lists/list-comprehensions.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-Comprehensions/list-comprehensions.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/List-Comprehensions/列表解析.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/LAST.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/Label.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/animation.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/another-last.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/parser.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/Hamlet.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/MAIN.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/Much_Ado_About_Nothing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/account-percent.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/calender.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/most-common-unique.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/named.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/pkfka-read-gzip.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/pkfka.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/positionals.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/ps.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/source.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN/u.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/3col.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/add3rdcol.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/insert-in-middle.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/loop-over-multiple-arrays-simultaneously.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/meta-operators.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/operators.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/take-while.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/test.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/transpose.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/x.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/zip-three.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/zip.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meta-Operators/zip3.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/.precomp/92903F98FD1DB23C416F168B2B62A2FF746F67D5/FE/FECB426E32CE9B2FB03BC1F3322B99916009375F.repo-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/Card.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/Deck.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/Model.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/Note.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/Package.pm6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/apkg-col.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/apkg-schema.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/App/Anki/util.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/META6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/callsame.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/callwith.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/default-trait.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/multi-dispatch.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/multi-pos.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/multi-why.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/multi.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/multiple-main.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Muti-Dispatch/str-slice.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/andthen.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/cards.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/fact.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/flip.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/flip_flop.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/is-prime-20190823.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/split-on-change.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/args.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/diff-array.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/gtk.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/item-regex.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern-Match/constant-pattern-match.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern-Match/pattern-maching.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern-Match/pattern-match.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern-Match/pattern-match2.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pattern-Match/模式匹配.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/end.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/finish.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/here.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/insert.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/phone.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/phone_all.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pod/pod.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promises/Promises.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promises/progress-bar.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promises/t-promise.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Proto/rr.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q-Language/chinese-quotes.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q-Language/insert-title.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q-Language/start.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Range/range.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/ACGT.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/Infinite.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/downward-for.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/ff.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/fib.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/flip-flop.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/flip_flop.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series-Operator/range-rotor.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/diff.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/insect-set.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/insert-data.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/minmax.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/reduce.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set/set.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slang/Slang/.precomp/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slang/Slang/.precomp/92903F98FD1DB23C416F168B2B62A2FF746F67D5/12/12229F41F0A2762F410FC651FC089ED7E663DC20" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slang/Slang/.precomp/92903F98FD1DB23C416F168B2B62A2FF746F67D5/12/12229F41F0A2762F410FC651FC089ED7E663DC20.repo-id" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slip/combinations.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smart-Matching/ab.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smart-Matching/smart-match.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smart-Matching/smartmatch.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/Sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/descending-sort.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/example.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/grades-report.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/scores" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/sort-an-array-of-composite-structures.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/sort-by-natura.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/sort-loop.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/sort.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/student-grade.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/tennes.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/comb.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/rotor-lines.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/ts.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subset/password-check.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subset/password-warning.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Subset/subset.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/constraint.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/fib.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/is.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/of-int.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/subtype.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Traits/typed-parameters.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twigils/dot-twigil.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twigils/pointy-block.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twigils/twigil.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twigils/twigils.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Twigils/wenhao.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/match-chinese.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/subscript-ord.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/subscript.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/superscript-ord.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/superscript.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/unicode-digit.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/unicode-fractions.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unicode/unicode-invulgar-fractions.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Using-Perl 6/pair.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Whatever/whatever.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/When/case.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/When/succeed.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/When/when.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-whenever/react-whenever-done.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-whenever/react-whenever-from-list.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-whenever/react-whenever-supply.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-whenever/react-whenever.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-whenever/socket.pl6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/100doors.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/Infinite.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/Sleep.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/downward-for.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/list-comprehensions.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/loop-over-multiple-arrays-simultaneously.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/range-extraction.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/sort-an-array-of-composite-structures.p6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rosettacode/urls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/with/with.p6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/.precomp/50BD75E791C0E24F034C260B3056346AE1F0E1AC/85/85C9853476D74411FF80A8CED298383EDFFD27A8.repo-id" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/.precomp/50BD75E791C0E24F034C260B3056346AE1F0E1AC/85/85C9853476D74411FF80A8CED298383EDFFD27A8.repo-id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/.precomp/50BD75E791C0E24F034C260B3056346AE1F0E1AC/E6/E61BBEF35CB3CCA1D50FE4335E67B1A762C5F7F6.repo-id" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/.precomp/50BD75E791C0E24F034C260B3056346AE1F0E1AC/E6/E61BBEF35CB3CCA1D50FE4335E67B1A762C5F7F6.repo-id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/calc.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/calc.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/csv-grammar.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/csv-grammar.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/grammar-station-data-parser.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/grammar-station-data-parser.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/sales-export-grammar.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/sales-export-grammar.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/split-file-by-section.p6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/split-file-by-section.p6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grammars/subparse.pl6" beforeDir="false" afterPath="$PROJECT_DIR$/Grammars/subparse.pl6" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZImeVe8Qh1SNQ055uLb4KInZjB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -343,9 +33,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Grammars/Range" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Grammars/Range" />
+      <recent name="$PROJECT_DIR$/Grammars/Extract" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Grammars/Pairs" />
     </key>
@@ -364,20 +61,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="648" y="289" key="FileChooserDialogImpl" timestamp="1585451783908">
+    <state x="205" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588465300552">
+      <screen x="52" y="23" width="1388" height="877" />
+    </state>
+    <state x="205" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.23.1388.877@52.23.1388.877" timestamp="1588465300552" />
+    <state x="308" y="132" key="FileChooserDialogImpl" timestamp="1588690549477">
+      <screen x="48" y="23" width="1392" height="877" />
+    </state>
+    <state x="308" y="132" key="FileChooserDialogImpl/48.23.1392.877@48.23.1392.877" timestamp="1588690549477" />
+    <state x="318" y="132" key="FileChooserDialogImpl/60.23.1380.877@60.23.1380.877" timestamp="1588292514064" />
+    <state x="329" y="213" key="IDE.errors.dialog" timestamp="1588647104796">
       <screen x="60" y="23" width="1380" height="877" />
     </state>
-    <state x="648" y="289" key="FileChooserDialogImpl/60.23.1380.877@60.23.1380.877" timestamp="1585451783908" />
-    <state x="420" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1585408190695">
-      <screen x="58" y="23" width="1382" height="877" />
+    <state x="329" y="213" key="IDE.errors.dialog/60.23.1380.877@60.23.1380.877" timestamp="1588647104796" />
+    <state x="337" y="178" key="SettingsEditor" timestamp="1588605400622">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state x="337" y="178" key="SettingsEditor/60.23.1380.877@60.23.1380.877" timestamp="1588605400622" />
+    <state x="421" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1588605380456">
+      <screen x="60" y="23" width="1380" height="877" />
     </state>
     <state x="407" y="276" key="com.intellij.ide.util.TipDialog/40.23.1400.877@40.23.1400.877" timestamp="1584682951837" />
     <state x="408" y="276" key="com.intellij.ide.util.TipDialog/41.23.1399.877@41.23.1399.877" timestamp="1584535083451" />
-    <state x="414" y="276" key="com.intellij.ide.util.TipDialog/50.23.1390.877@50.23.1390.877" timestamp="1584787774735" />
-    <state x="420" y="276" key="com.intellij.ide.util.TipDialog/58.23.1382.877@58.23.1382.877" timestamp="1585408190695" />
-    <state x="404" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1584702820686">
-      <screen x="36" y="23" width="1404" height="877" />
+    <state x="413" y="276" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1585722382439" />
+    <state x="414" y="276" key="com.intellij.ide.util.TipDialog/50.23.1390.877@50.23.1390.877" timestamp="1586700952346" />
+    <state x="417" y="276" key="com.intellij.ide.util.TipDialog/54.23.1386.877@54.23.1386.877" timestamp="1585647136174" />
+    <state x="420" y="276" key="com.intellij.ide.util.TipDialog/58.23.1382.877@58.23.1382.877" timestamp="1585705227250" />
+    <state x="421" y="276" key="com.intellij.ide.util.TipDialog/60.23.1380.877@60.23.1380.877" timestamp="1588605380456" />
+    <state x="420" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1586703863699">
+      <screen x="58" y="23" width="1382" height="877" />
     </state>
     <state x="404" y="224" width="670" height="676" key="search.everywhere.popup/36.23.1404.877@36.23.1404.877" timestamp="1584702820686" />
+    <state x="420" y="224" width="670" height="676" key="search.everywhere.popup/58.23.1382.877@58.23.1382.877" timestamp="1586703863699" />
   </component>
 </project>
