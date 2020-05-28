@@ -1,0 +1,20 @@
+*-network:3
+   description: Ethernet interface
+   product: I350 Gigabit Network Connection
+   vendor: Intel Corporation
+   physical id: 0.3
+   bus info: pci@0000:03:00.3
+   logical name: eth1
+   version: 01
+   serial: xx:xx:xx:xx:xx:xx
+   size: 1GB/s
+   capacity: 1GB/s
+   width: 32 bits
+   clock: 33MHz
+*-network
+   description: Ethernet interface
+   physical id: 1
+   logical name: eth0
+   serial: yy:yy:yy:yy:yy:yy
+   capabilities: ethernet physical
+   configuration: broadcast=yes driver=vif link=yes multicast=yes
