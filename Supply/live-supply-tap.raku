@@ -6,4 +6,4 @@ $supplier.Supply.tap({
     .say;
 });
 
-$supplier.emit($_) for 'a' .. 'e';
+$supplier.emit($_) for 'aa' .. 'zz';
