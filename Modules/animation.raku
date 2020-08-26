@@ -6,31 +6,47 @@ use Terminal::Print <T>;
 T.initialize-screen;
 my @chars = '一' ... '二';
 my Channel $c .= new;
+my @columns = T.columns, {$^a - 3} ... * < 0;
 
-await do for T.columns, {$^a - 3} ... * < 0 -> $x {
+await do for @columns -> $x {
     start {
         for 1,3,5 ... * > T.rows -> $y {
-            $c.send([$x, $y]);
+            $c.send([$x, $y, @chars.roll]);
         }
     }
 }
 
 
-await do for 1, 4, 7 ... * > T.columns -> $x {
+await do for @columns.sort -> $x {
     start {
-        for 1,3,5 ... * > T.rows -> $y {
-            $c.send([$x+1, $y]);
+        for @columns.sort -> $i {
+            state $a = $i;
+            state $b = $i;
+            start {
+
+                for 1,3,5 ... * > T.rows -> $y {
+                    $c.send([$a, $y, ' ']);
+                }
+
+                for 1,3,5 ... * > T.rows -> $y {
+                    $c.send([$b, $y, @chars.roll]);
+                }
+
+                $a += 4;
+                $b += 6;
+            }
+
         }
     }
 }
+
 
 react {
     whenever $c -> $v {
-        #sleep 0.02;
-        T.print-cell($v[0], $v[1], @chars.roll);
+        my ($x, $y, $z) = $v[0], $v[1], $v[2];
+        sleep 0.001;
+        T.print-cell($x, $y, $z);
     }
 }
-
-
 
 T.shutdown-screen;

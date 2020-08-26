@@ -1,112 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef2450af-28ab-4d68-9d9d-892c0c444076" name="Default Changelist" comment="">
+    <list default="true" id="1066cb7d-a204-4a66-bc85-820ea3a3e105" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learn-raku-by-examples.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Others/myth.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Others/myth.raku" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Supply/live-supply-tap.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Supply/live-supply-tap.raku" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/animation.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/animation.raku" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promise/nth-prime.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Promise/nth-prime.raku" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1ZImeVe8Qh1SNQ055uLb4KInZjB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1gZddBQhNehPTS9RshyeG797dYc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.13908046" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Grammars" />
-      <recent name="$PROJECT_DIR$/Grammars/data" />
-      <recent name="$PROJECT_DIR$/Grammars/Pairs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Grammars/Range" />
-      <recent name="$PROJECT_DIR$/Grammars/Extract" />
-    </key>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef2450af-28ab-4d68-9d9d-892c0c444076" name="Default Changelist" comment="" />
-      <created>1584535077650</created>
+      <changelist id="1066cb7d-a204-4a66-bc85-820ea3a3e105" name="Default Changelist" comment="" />
+      <created>1598326133700</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584535077650</updated>
+      <updated>1598326133700</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="411" y="242" key="#Notifications" timestamp="1596080465084">
-      <screen x="53" y="23" width="1227" height="777" />
-    </state>
-    <state x="411" y="242" key="#Notifications/53.23.1227.777@53.23.1227.777" timestamp="1596080465084" />
-    <state x="154" y="23" key="#Project_Structure" timestamp="1596080723560">
-      <screen x="53" y="23" width="1227" height="777" />
-    </state>
-    <state x="154" y="23" key="#Project_Structure/53.23.1227.777@53.23.1227.777" timestamp="1596080723560" />
-    <state x="205" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588465300552">
-      <screen x="52" y="23" width="1388" height="877" />
-    </state>
-    <state x="205" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/52.23.1388.877@52.23.1388.877" timestamp="1588465300552" />
-    <state x="352" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596079447474">
-      <screen x="49" y="23" width="1231" height="777" />
-    </state>
-    <state x="352" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/49.23.1231.777@49.23.1231.777" timestamp="1596079447474" />
-    <state x="282" y="120" key="FileChooserDialogImpl" timestamp="1596683708828">
-      <screen x="53" y="23" width="1227" height="777" />
-    </state>
-    <state x="308" y="132" key="FileChooserDialogImpl/48.23.1392.877@48.23.1392.877" timestamp="1588690549477" />
-    <state x="282" y="120" key="FileChooserDialogImpl/53.23.1227.777@53.23.1227.777" timestamp="1596683708828" />
-    <state x="318" y="132" key="FileChooserDialogImpl/60.23.1380.877@60.23.1380.877" timestamp="1589075106452" />
-    <state x="290" y="191" key="IDE.errors.dialog" timestamp="1596080582380">
-      <screen x="53" y="23" width="1227" height="777" />
-    </state>
-    <state x="290" y="191" key="IDE.errors.dialog/53.23.1227.777@53.23.1227.777" timestamp="1596080582380" />
-    <state x="324" y="213" key="IDE.errors.dialog/54.23.1386.877@54.23.1386.877" timestamp="1589095983937" />
-    <state x="329" y="213" key="IDE.errors.dialog/60.23.1380.877@60.23.1380.877" timestamp="1588647104796" />
-    <state x="61" y="23" key="SettingsEditor" timestamp="1596080713717">
-      <screen x="53" y="23" width="1227" height="777" />
-    </state>
-    <state x="61" y="23" key="SettingsEditor/53.23.1227.777@53.23.1227.777" timestamp="1596080713717" />
-    <state x="337" y="178" key="SettingsEditor/60.23.1380.877@60.23.1380.877" timestamp="1588605400622" />
-    <state x="412" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1589619796243">
-      <screen x="46" y="23" width="1394" height="877" />
-    </state>
-    <state x="412" y="276" key="com.intellij.ide.util.TipDialog/46.23.1394.877@46.23.1394.877" timestamp="1589619796243" />
-    <state x="413" y="276" key="com.intellij.ide.util.TipDialog/47.23.1393.877@47.23.1393.877" timestamp="1589188451154" />
-    <state x="414" y="276" key="com.intellij.ide.util.TipDialog/48.23.1392.877@48.23.1392.877" timestamp="1589184800866" />
-    <state x="421" y="276" key="com.intellij.ide.util.TipDialog/60.23.1380.877@60.23.1380.877" timestamp="1588605380456" />
   </component>
 </project>

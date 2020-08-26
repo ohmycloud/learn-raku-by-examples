@@ -1,5 +1,6 @@
 #!/usr/bin/env perl6
 
+# `start` block return  a `Promise` object
 my $promise = start {
     my $nth = 0;
     my $nth-prime;
