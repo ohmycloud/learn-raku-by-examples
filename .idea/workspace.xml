@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1066cb7d-a204-4a66-bc85-820ea3a3e105" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learn-raku-by-examples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modules/animation.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/animation.raku" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Promise/nth-prime.raku" beforeDir="false" afterPath="$PROJECT_DIR$/Promise/nth-prime.raku" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sample-cro-crud-master" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,5 +36,16 @@
       <updated>1598326133700</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2505" y="261" key="FileChooserDialogImpl" timestamp="1600351208753">
+      <screen x="1440" y="25" width="3440" height="1415" />
+    </state>
+    <state x="2505" y="261" key="FileChooserDialogImpl/57.25.1383.875/1440.25.3440.1415@1440.25.3440.1415" timestamp="1600351208753" />
+    <state x="485" y="171" key="FileChooserDialogImpl/57.25.1383.875/1440.25.3440.1415@57.25.1383.875" timestamp="1600263212670" />
+    <state x="251" y="185" key="comma new project wizard" timestamp="1600263248970">
+      <screen x="57" y="25" width="1383" height="875" />
+    </state>
+    <state x="251" y="185" key="comma new project wizard/57.25.1383.875/1440.25.3440.1415@57.25.1383.875" timestamp="1600263248970" />
   </component>
 </project>
