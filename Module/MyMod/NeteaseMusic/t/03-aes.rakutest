@@ -1,0 +1,19 @@
+use Test;
+
+use OpenSSL::CryptTools;
+use Base64::Native;
+
+my $key = '0CoJUm6Qyw8W8jud';
+my $ciphertext = encrypt("asdf".encode,
+                         :aes128,
+                         :iv(('0102030405060708').encode),
+                         :key($key.encode));
+
+say base64-encode($ciphertext, :str);
+
+my $plaintext = decrypt($ciphertext,
+                        :aes128,
+                        :iv(('0102030405060708').encode),
+                        :key($key.encode));
+
+say base64-encode($plaintext, :str);

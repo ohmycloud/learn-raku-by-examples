@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    "ohmycloud@gmail.com"
+  ],
+  "build-depends" : [ ],
+  "depends" : ["LibUUID", "Digest::SHA256::Native", "Cro::HTTP::Client"],
+  "description" : "YouDao Tranlation",
+  "license" : "Artistic-2.0",
+  "name" : "YouDao",
+  "perl" : "6.d",
+  "provides" : {
+    "YouDao" : "lib/YouDao.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ "Translation"],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}

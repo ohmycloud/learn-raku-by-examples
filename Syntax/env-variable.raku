@@ -1,0 +1,1 @@
+say  %*ENV{'HTTP_PROXY', 'HTTPS_PROXY'};

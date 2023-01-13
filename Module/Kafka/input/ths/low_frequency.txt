@@ -1,0 +1,10 @@
+brm_version
+brm_batteryType
+brm_ratedCap
+brm_ratedVolt
+brm_manufacturer
+brm_vin
+bcp_startSoc
+cts_time
+brm_bpDate
+bhm_maxChargeVolt

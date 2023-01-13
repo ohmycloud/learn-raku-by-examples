@@ -1,0 +1,17 @@
+{
+  "authors" : [ "ohmycloud@gmail.com"],
+  "build-depends" : [ ],
+  "depends" : [ "Digest::HMAC", "Digest", "Digest::SHA", "MIME::Base64", "URI::Encode", "URI", "Cro::HTTP::Client" ],
+  "description" : "Oauth client for fanfou, written in Perl 6",
+  "license" : "Artistic-2.0",
+  "name" : "FanFou",
+  "perl" : "6.c",
+  "provides" : {
+    "FanFou" : "lib/FanFou.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "https://github.com/ohmycloud/fanfou-p6.git",
+  "tags" : ["Client"],
+  "test-depends" : [ ],
+  "version" : "0.0.5"
+}

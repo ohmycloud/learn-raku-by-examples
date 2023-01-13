@@ -1,0 +1,38 @@
+use FanFou;
+use JSON::Fast;
+use Terminal::ANSIColor;
+use Terminal::Spinners;
+
+sub MAIN($str?) {
+    my %oauth_consumer = key => 'cd7a95c5ecdf191d136e6d94f4350cbc', secret => 'da26d52d00f537ffa88acd8e649140c6';
+    my $client = FanFou::XAuth.new(oauth_consumer => %oauth_consumer, username => 'sxw2k@sina.com', password => '82041q');
+
+    if $str.defined {
+        my $minute = (2..5).pick;
+        my $second = (10..59).pick;
+
+        my $body = qq:to/EOF/;　　　　　　　　　　　　　　　　
+正在播放《$str》 
+●━━━━━━─────── {$minute}:{$second} 
+⇆       ㅤㅤㅤ◁     ㅤㅤ❚❚      ㅤㅤ▷      ㅤㅤㅤ↻ 
+EOF
+
+        # post a message
+        say $body;
+        my %body = 'status' => "$body";
+        $client.request('/statuses/update', 'POST', %body);
+    } else {
+
+        my $dots = Spinner.new: type => 'dots';
+        my $promise = start {
+            my $resp = from-json await $client.request('/statuses/home_timeline', 'GET').body-text;
+            say '';
+            for @$resp.sort(*.{'user'}.{'unique_id'}) -> $p {
+                say '[' , colored("{$p.{'user'}.{'name'}}", "{(^256).pick}"), '] ', $p.{'text'};
+            }
+        }; # promise of your long running process
+        until $promise.status {
+            $dots.next; # prints the next spinner frame
+        }
+    }
+}

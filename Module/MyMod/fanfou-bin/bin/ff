@@ -1,0 +1,13 @@
+use FanFou;
+use JSON::Fast;
+
+sub MAIN($str?) {
+    my %oauth_consumer = key => '29e0de038377e10e6c2cc316dce5deb7', secret => '8401f40f243330531bf2f7e48277b2b8'; # 锅里有饭
+
+# get client
+my $client = FanFou::XAuth.new(oauth_consumer => %oauth_consumer, username => 'sxw2k', password => '82041q');
+
+    #my $client = FanFou::OAuth.new(oauth_consumer => %oauth_consumer);
+    say $client.request_token();
+    #say $client.authorize_url;
+}

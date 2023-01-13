@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    ""
+  ],
+  "build-depends" : [ ],
+  "depends" : ["PKafka"],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "FakeStreaming",
+  "perl" : "6.c",
+  "provides" : {
+    "FakeStreaming" : "lib/FakeStreaming.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}

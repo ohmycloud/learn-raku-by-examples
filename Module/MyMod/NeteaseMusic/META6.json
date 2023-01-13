@@ -1,0 +1,20 @@
+{
+  "authors" : [
+    "ohmycloud"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "NeteaseMusic",
+  "perl" : "6.d",
+  "provides" : {
+    "NeteaseMusic" : "lib/NeteaseMusic.rakumod",
+    "NeteaseMusic::Encrypt" : "lib/NeteaseMusic/Encrypt.rakumod"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}

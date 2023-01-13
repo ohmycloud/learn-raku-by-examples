@@ -1,0 +1,3 @@
+use Test;
+use NetEase::Music;
+

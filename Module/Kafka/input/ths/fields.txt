@@ -1,0 +1,14 @@
+bsm_maxTemp
+bsm_minTemp
+bcs_soc
+bcp_startSoc
+bcp_startVolt
+brm_batteryType
+brm_ratedCap
+brm_ratedVolt
+brm_vin
+bcp_maxCurrent
+bcp_maxVolt
+bcp_maxSingleVolt
+bcp_maxTemp
+bcs_currentMeasure

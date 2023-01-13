@@ -1,0 +1,43 @@
+#!/usr/bin/env perl6
+
+use FakeStreaming;
+
+multi sub MAIN(
+    :$host        = '0.0.0.0', 
+    :$port        = 3333, 
+    :$vin         = 'LSJA0000000000091,LSJA0000000000092', 
+    :$last_meter  = 0, 
+    :$sleeping    = 10, 
+    :$rate        = 1
+    ) {
+    my $app = FakeStreaming.new(
+        :$host, 
+        :$port, 
+        :$vin, 
+        :$last_meter, 
+        :$sleeping, 
+        :$rate
+    );
+    $app.multi-trips();
+}
+
+multi sub MAIN(
+    :$vin         = 'LSJA0000000000091,LSJA0000000000092', 
+    :$last_meter  = 0, 
+    :$sleeping    = 10, 
+    :$rate        = 1,
+    :$brokers     = "127.0.0.1",
+    :$topics      = "flink-test",
+    :$partitions  = 6
+) {
+       my $app = FakeStreaming.new(
+        :$vin, 
+        :$last_meter, 
+        :$sleeping, 
+        :$rate,
+        :$brokers,
+        :$topics,
+        :$partitions
+    );
+    $app.producer();
+}

@@ -1,0 +1,24 @@
+{
+  "authors": [
+    ""
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "blah blah blah",
+  "license": "Artistic-2.0",
+  "name": "FeiShu",
+  "perl": "6.d",
+  "provides": {
+    "FeiShu": "lib/FeiShu.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}

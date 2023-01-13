@@ -1,0 +1,12 @@
+#!/usr/bin/env perl6
+use UnixTrans;
+
+multi sub MAIN(Int $timestamp) {
+    my $app = UnixTrans::Convert.new(timestamp => $timestamp);
+    $app.unix2time;
+}
+
+multi sub MAIN(Str $date where { try Date.new($_) }, Str $time?) {
+    my $app = UnixTrans::Convert.new(date => $date, time => $time);
+    $app.time2unix;
+}

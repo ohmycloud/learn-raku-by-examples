@@ -1,0 +1,19 @@
+{
+  "authors" : [
+    ""
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "UnixTrans",
+  "perl" : "6.c",
+  "provides" : {
+    "UnixTrans" : "lib/UnixTrans.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}

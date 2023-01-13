@@ -1,0 +1,23 @@
+use Cro::HTTP::Client;
+
+my $base_url = 'http://music.163.com';
+sub login($username, $password) {
+    my $path;
+    my %params;
+    if $username ~~ Int {
+        $path = $base_url ~ "/weapi/login/cellphone";
+        %params = phone => $username, password => $password, rememberLogin => True;
+    } else {
+        # magick token for login
+        # see https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/router/login.js#L15
+        my $client_token = "1_jVUMqWEPke0/1/Vu56xCmJpo5vP1grjn_SOVVDzOc78w8OKLVZ2JH7IfkjSXqgfmh";
+        $path = $base_url ~ "/weapi/login";
+        %params = username => $username, password => $password, rememberLogin => True, clientToken => $client_token;
+    }
+    my $resp = await Cro::HTTP::Client.new().post: $path, %params;
+    # todo session cookies save
+    return $resp;
+}
+
+my $resp = login('18612989755', '82041q');
+say await $resp.body-text();

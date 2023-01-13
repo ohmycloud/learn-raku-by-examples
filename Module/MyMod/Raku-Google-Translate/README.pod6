@@ -1,0 +1,23 @@
+=begin pod
+
+=NAME    Google::Translate
+=AUTHOR  ohmycloud <ohmycloudy@gmail.com>
+=VERSION 0.0.0
+
+=head1 Description
+
+translate using Perl 6
+
+=head1 Installation
+
+Install this module through L<zef|https://github.com/ugexe/zef>:
+
+=begin code :lang<sh>
+zef install Google::Translate
+=end code
+
+=head1 License
+
+This module is distributed under the terms of the AGPL-3.0.
+
+=end pod

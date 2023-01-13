@@ -1,0 +1,14 @@
+## Perl 6 precompilation files ##
+.precomp
+
+## Editor files ##
+
+# emacs
+*~
+
+# vim
+.*.sw?
+
+# comma
+.idea
+*.iml

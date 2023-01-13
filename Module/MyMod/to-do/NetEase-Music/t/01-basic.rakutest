@@ -1,0 +1,6 @@
+use Test;
+use NetEase::Music;
+
+pass "replace me";
+
+done-testing;

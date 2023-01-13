@@ -1,0 +1,16 @@
+{
+  "name": "Notify",
+  "description": "minimal notifying tool for Raku.",
+  "version": "0.0.5",
+  "perl": "6.*",
+  "auth": "zef:ohmycloudy",
+  "authors": ["ohmycloud <ohmycloudy@gmail.com>"],
+  "depends": [],
+  "provides": {
+    "Notify": "lib/Notify.rakumod"
+  },
+  "resources": [],
+  "license": "Artistic-2.0",
+  "source-url": "https://github.com/ohmycloud/Notify.git",
+  "tags": ["notify"]
+}

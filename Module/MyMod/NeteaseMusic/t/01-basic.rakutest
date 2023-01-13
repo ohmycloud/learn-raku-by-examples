@@ -1,0 +1,6 @@
+use Test;
+use NeteaseMusic;
+
+pass "replace me";
+
+done-testing;

@@ -1,0 +1,24 @@
+use Test;
+
+use lib '../';
+use NeteaseMusic::Encrypt;
+
+# https://music.163.com/song?id=65766&userid=2539497
+
+#is encrypted-id("65766"), "gFO_ohAWPGSyhqM_TgMWEg==";
+
+#is create-key(8).chars, 16, 'ok length';
+#is create-key(16).chars, 16, 'ok length';
+
+#is rsa("16d8ae438dd0c931", PUBKEY, MODULUS), '5e06f7a2912578a929d574168354a41a39526f5d6611271eb9c0876b55da9739eb30af990cd7f2da2d732c945492622cec792302244a8cf3c1eccee4c0ad24db51a71ee5b0f0af02e959ec2760f746df7c2adf0c54bc3c1df18d3eef66fa3e9b2172b859d5226dbbefa2021f36b89dc37a3afd53e589a7dac9cb43d707c3b492', 'rsa encrypt ok';
+#is rsa("9672f9dfe1202ec8", PUBKEY, MODULUS), 'cfcf9769dd2a3690e6ef4bb55fd78547fc30bd9b55db7c3189db39b526a0fa33737ed49ae8f9d1af52d88c5f45273cdd73d15cbfcfbbd847820c210aa86cca2bb97d09008eba05685357b3f068b4698df159aef413b2a3f440031301d315e835d86a6e8168934f8e366bf7038cef4106d47ad0233cea9f557e5ab137baaa0c32', 'rsa encrypt ok';
+
+is aes('012345678', NONCE), 'O+JSpD+fPoVOSm8zYYi2cg==', 'aes ok';
+is aes('asdf', NONCE), 'qdxpfILHw4qrNFZq7E4AiQ==', 'aes ok for text less than 8';
+is aes('0123456789', NONCE), 'BL2QjDtbhmwQbtyQLRQmqA==', 'aes for 9 chars ok';
+is encrypted-request('12345678'), 'abc', 'encrypted request ok';
+
+plan 4;
+
+
+done-testing;

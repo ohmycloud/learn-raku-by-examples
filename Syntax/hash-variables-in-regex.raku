@@ -1,0 +1,1 @@
+say "  a b\tc" ~~ m/%<chars>=( \s+ \S+ )/;

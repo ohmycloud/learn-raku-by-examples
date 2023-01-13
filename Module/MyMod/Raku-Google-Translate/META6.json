@@ -1,0 +1,26 @@
+{
+  "api": "0",
+  "authors": [
+    "ohmycloud <ohmycloudy@gmail.com>"
+  ],
+  "depends": [
+    
+  ],
+  "description": "translate using Perl 6",
+  "license": "AGPL-3.0",
+  "meta-version": 0,
+  "name": "Google::Translate",
+  "perl": "6.c",
+  "provides": {
+    "Google::TokenAcquirer": "lib/Google/TokenAcquirer.pm6",
+    "Google::Translate": "lib/Google/Translate.pm6"
+  },
+  "resources": [
+    
+  ],
+  "source-url": "",
+  "tags": [
+    
+  ],
+  "version": "0.0.0"
+}

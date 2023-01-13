@@ -1,0 +1,10 @@
+use FeiShu;
+
+my $app_id = 'cli_a0ce9bbda378900c';
+my $app_secret = 'e5xN6cknETUNizSegNnMjeRlWCMCpiEl';
+my $verfication_token = 'ZV6FXqAh3tljfRaqMTLEzheCkanByiqq';
+
+my $chat_name="群名称";
+my $client = FeiShu.new($app_id, $app_secret, $chat_name);
+my $res=client.send_msg("test");
+say $res;

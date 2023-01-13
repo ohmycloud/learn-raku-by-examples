@@ -1,0 +1,25 @@
+{
+  "auth": "zef:ohmycloudy",
+  "authors": [
+    "ohmycloud <ohmycloudy@gmail.com>"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A tool for generating unique ID numbers.",
+  "license": "Artistic-2.0",
+  "name": "SnowFlake",
+  "perl": "6.d",
+  "provides": {
+    "SnowFlake": "lib/SnowFlake.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "https://github.com/ohmycloud/SnowFlake.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
